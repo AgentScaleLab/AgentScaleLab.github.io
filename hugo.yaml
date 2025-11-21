@@ -23,3 +23,8 @@ menu:
     name: Blog
     url: /posts/
     weight: 20
+  - identifier: projects
+    name: Project
+    url: /projects/
+    weight: 20
+

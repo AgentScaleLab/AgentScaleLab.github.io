@@ -16,6 +16,13 @@
       <description>&lt;p&gt;Hi!&lt;/p&gt;</description>
     </item>
     <item>
+      <title>My first project</title>
+      <link>http://localhost:1313/projects/11_21_2025/</link>
+      <pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/11_21_2025/</guid>
+      <description>&lt;p&gt;Hi!&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>My second blog post</title>
       <link>http://localhost:1313/posts/11_22_2025/</link>
       <pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
