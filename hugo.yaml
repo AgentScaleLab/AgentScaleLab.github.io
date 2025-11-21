@@ -4,6 +4,9 @@ title: Jason'Log
 theme: PaperMod
 params:
   defaultTheme: dark
+  ShowReadingTime: true
+  ShowAllPagesInArchive: true
+  ShowWordCount: true
   homeInfoParams:
     Title: "\U0001F44B Welcome to Jason'Log"
     Content: >-
@@ -26,5 +29,9 @@ menu:
   - identifier: projects
     name: Project
     url: /projects/
+    weight: 20
+  - identifier: tags
+    name: Tags
+    url: /tags/
     weight: 20
 

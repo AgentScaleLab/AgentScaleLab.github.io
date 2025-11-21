@@ -6,21 +6,14 @@
     <description>Recent content in Posts on Jason&#39;Log</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 01 Jan 1970 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Nov 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My first blog post</title>
-      <link>http://localhost:1313/posts/11_21_2025/</link>
-      <pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/11_21_2025/</guid>
-      <description>&lt;p&gt;Hi!&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>My second blog post</title>
-      <link>http://localhost:1313/posts/11_22_2025/</link>
-      <pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/11_22_2025/</guid>
-      <description>&lt;p&gt;Hi!&lt;/p&gt;</description>
+      <title>Creating a blog with Hugo and GitHub Pages</title>
+      <link>http://localhost:1313/posts/2025_11_21_building_a_blog_with_hugo/</link>
+      <pubDate>Fri, 21 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2025_11_21_building_a_blog_with_hugo/</guid>
+      <description>&lt;p&gt;Hi! I am a new blog post.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
