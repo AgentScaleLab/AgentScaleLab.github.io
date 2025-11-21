@@ -1,0 +1,25 @@
+baseURL: https://AgentScaleLab.github.io
+languageCode: en-us
+title: Jason'Log
+theme: PaperMod
+params:
+  defaultTheme: dark
+  homeInfoParams:
+    Title: "\U0001F44B Welcome to Jason'Log"
+    Content: >-
+      Hi, this is Jason. I'm documenting my learning notes in this blog since 2025.
+  socialIcons:
+    - name: email
+      url: 'aascodedev02@outlook.com'
+    - name: github
+      url: 'https://github.com/AgentScaleLab'
+menu:
+  main:
+  - identifier: home
+    name: Home
+    url: /
+    weight: 10
+  - identifier: posts
+    name: Blog
+    url: /posts/
+    weight: 20
