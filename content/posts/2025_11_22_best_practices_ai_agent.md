@@ -1,5 +1,5 @@
 ---
-title: "Best practices for developing agentic ai systems"
+title: "Best practices agentic ai systems"
 date: 2025-11-22
 draft: false
 ShowToc: true
