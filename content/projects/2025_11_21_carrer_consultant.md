@@ -1,9 +1,9 @@
 ---
-title: "Best practices for developing agentic ai systems"
+title: "Carrer consultant"
 date: 2025-11-22
 draft: false
 ShowToc: true
-author: "Jason"
+Author: "Jason"
 tags: ["ai agents"]
 ---
 Hi! I am a new blog post.
