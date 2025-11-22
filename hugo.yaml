@@ -18,10 +18,6 @@ params:
       url: 'https://github.com/AgentScaleLab'
 menu:
   main:
-  - identifier: home
-    name: Home
-    url: /
-    weight: 10
   - identifier: posts
     name: Blog
     url: /posts/
