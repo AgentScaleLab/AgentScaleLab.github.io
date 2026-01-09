@@ -3,12 +3,10 @@ title: "从零开始构建一个大模型智能体"
 date: 2026-01-09
 draft: false
 ShowToc: true
-TocOpen: true
 author: "Jason"
 tags: ["ai agents"]
 ---
 在这篇文章里，我将带大家从零开始构建一个大模型智能体。首先，我们仔细拆解大模型智能体的基础概念，并通过实际案例来深入理解其应用。
-
 
 
 ## 大模型智能体是什么？
