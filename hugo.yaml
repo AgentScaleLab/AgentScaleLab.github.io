@@ -9,9 +9,9 @@ params:
   ShowAllPagesInArchive: true
   ShowWordCount: true
   homeInfoParams:
-    Title: "\U0001F44B Welcome to Jason'Log"
+    Title: "\U0001F44B 欢迎来到 Jason'Log"
     Content: >-
-      Hi, this is Jason. I'm documenting my learning notes in this blog since 2025.
+      我是Jason，一个专注在企业级Agent研发的研究员，我将在这里整理研究和技术笔记。
   socialIcons:
     - name: email
       url: 'aascodedev02@outlook.com'
@@ -20,15 +20,15 @@ params:
 menu:
   main:
   - identifier: posts
-    name: Blog
+    name: 博客
     url: /posts/
     weight: 20
   - identifier: projects
-    name: Project
+    name: 项目
     url: /projects/
     weight: 20
   - identifier: tags
-    name: Tags
+    name: 标签
     url: /tags/
     weight: 20
 
