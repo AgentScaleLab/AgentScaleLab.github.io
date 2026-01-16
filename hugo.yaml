@@ -1,5 +1,6 @@
 baseURL: https://AgentScaleLab.github.io
-languageCode: en-us
+languageCode: zh
+defaultContentLanguage: zh
 title: Jason'Log
 theme: PaperMod
 params:
