@@ -11,7 +11,7 @@ params:
   homeInfoParams:
     Title: "\U0001F44B 欢迎来到 Jason'Log"
     Content: >-
-      我是Jason，一个专注在企业级Agent研发的研究员，我将在这里整理研究和技术笔记。
+      我是Jason，一个专注在企业级Agent研发的研究员，我将在这里整理研究和技术笔记，希望用最简单的方式揭秘大模型前沿技术。
   socialIcons:
     - name: email
       url: 'aascodedev02@outlook.com'
