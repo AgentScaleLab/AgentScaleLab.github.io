@@ -1,6 +1,6 @@
 ---
 title: "Mobile audio assistants"
-date: 2025-11-22
+date: 2027-11-22
 draft: false
 ShowToc: true
 author: "Jason"
