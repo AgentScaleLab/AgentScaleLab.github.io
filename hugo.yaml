@@ -1,6 +1,6 @@
 baseURL: https://AgentScaleLab.github.io
-languageCode: zh
-defaultContentLanguage: zh
+languageCode: en-us
+defaultContentLanguage: en-us
 title: Jason'Log
 theme: PaperMod
 params:
@@ -9,9 +9,9 @@ params:
   ShowAllPagesInArchive: true
   ShowWordCount: true
   homeInfoParams:
-    Title: "\U0001F44B 欢迎来到 Jason'Log"
+    Title: "\U0001F44B Welcome to Jason'Log"
     Content: >-
-      我是Jason，一个专注在企业级Agent研发的研究员，我将在这里整理研究和技术笔记，希望用最简单的方式揭秘大模型前沿技术。
+      I'm Jason, a researcher focused on enterprise-level Agent development. I'll be sharing research and technical notes here, aiming to demystify cutting-edge LLM technologies in the simplest way possible. Feel free to reach out to me via email or GitHub if you have any questions or suggestions.
   socialIcons:
     - name: email
       url: 'aascodedev02@outlook.com'
@@ -20,15 +20,15 @@ params:
 menu:
   main:
   - identifier: posts
-    name: 博客
+    name: Posts
     url: /posts/
     weight: 20
   - identifier: projects
-    name: 项目
+    name: Projects
     url: /projects/
     weight: 20
   - identifier: tags
-    name: 标签
+    name: Tags
     url: /tags/
     weight: 20
 
